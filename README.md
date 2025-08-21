@@ -1,5 +1,5 @@
-# GoogleColab_Notebooks
-A repositoty for my google colab learning projects
+# Notebooks
+A repositoty for my Notebooks learning projects
 
 Notebook|Description
 :------: | :------: 
