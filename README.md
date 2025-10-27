@@ -8,5 +8,5 @@ Notebook|Description
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WeDfrD3CYCaupSqBO-hzwZZutVCcJbUe?usp=sharing) | Classificação de cogumelos
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15sziibLXtizxUnHTmJCKRCDtYnhan8id?usp=sharing) | Engenharia de Atributos RandomForest
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BqTFaozp5w76tX45mDk335fzCm5twJiz?usp=sharing) | Explorando RandomForest
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Cf4OpJs7lm_BgDKOp-Yzn2mJ7KRc3CUi?usp=sharing) | 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yxfoT3YX_LATVvHGnOqznQ8xhrF-MIRr?usp=sharing) | Calculo e Escolha de Metricas
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Cf4OpJs7lm_BgDKOp-Yzn2mJ7KRc3CUi?usp=sharing) | Comparação de Métricas
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yxfoT3YX_LATVvHGnOqznQ8xhrF-MIRr?usp=sharing) | Calculo e Escolha de Métricas
