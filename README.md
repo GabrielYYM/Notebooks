@@ -12,3 +12,4 @@ Notebook|Description
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yxfoT3YX_LATVvHGnOqznQ8xhrF-MIRr?usp=sharing) | Calculo e Escolha de Métricas
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mqHs9oFgZ0CbSueVrt-DvA8RYwnlX1TV?usp=sharing) | Datasets Diversos
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tn9alxE1ryCwDPNFDaNpGmvmMk826LuD?usp=sharing) | Explorando Boosting
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1B-UbMtiTdjTNW1SlVKgmWrAOBr7kGdyU?usp=sharing) | Revendo a Base
